@@ -1,8 +1,8 @@
 {
     "scripts": {
-        "dev": "next dev",
+        "dev": "next dev -p 3044",
         "build": "next build",
-        "start": "next start",
+        "start": "next start -p 3044",
         "lint": "next lint"
     },
     "dependencies": {
